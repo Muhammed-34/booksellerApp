@@ -36,7 +36,7 @@ Bu projeyi çalıştırmak için aşağıdaki adımları takip edebilirsiniz:
 1. Bu repoyu bilgisayarınıza klonlayın veya indirerek projeyi Visual Studio'da açın.
 
    ```bash
-   git clone https://github.com/Muhammed-34/BooksellerApp.git
+   git clone https://github.com/Muhammed-34/booksellerApp.git
    
 2. Projeyi Visual Studio'da açın.
 
